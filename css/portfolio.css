@@ -1,0 +1,174 @@
+header{
+    background-color: white;
+    border-bottom: 2px solid black;
+  }
+  .a{
+    width: 960px;
+    max-width: 960px;
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+    display: block;
+    
+}
+h1{
+    background-color: #4aaaa5;
+    color: white;
+    width: 200px;
+    padding: 38px;
+    margin-top: -1px;
+    font-size: 24px;
+    
+}
+.b{
+    float: right;
+    margin-top: -46px;
+    font-size: 24px;
+    word-spacing: 12px;
+    
+  }
+  li{
+    display: inline;
+  }
+  a{
+    text-decoration: none;
+  }
+  .p1esas{
+    margin: 0 auto;
+    height: 100vh;
+    width: 960px;
+    max-width: 960px;
+    display: flex;
+    
+
+  }
+  .portfolio{
+    border: 1px solid black;
+    width: 650px;
+    max-width: 650px;
+    height: 860px;
+    margin-top: 30px;
+    background-color: white;
+    
+  }
+  .connect{
+    height: 200px;
+    width: 270px;
+    max-width: 270px;
+    margin-top: 19px;
+    margin-left: -3px;
+
+  }
+  .program{
+    width: 300px;
+    background-color: #ffffff;
+    height: 250px;
+    margin-left: 37px;
+    margin-top: 31px;
+    border: 1px solid black;
+  }
+  h3{
+    color: #4aaaa5;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 36px;
+  }
+  .pro{
+    width: 270px;
+    max-width: 750px;
+    margin-left: 10px;
+    margin-top: 20px;
+  }
+ /* .logo1{
+    height: 70px;
+    width: 70px;
+    margin-left: 10px;
+    margin-top: 30px;
+  }
+  .logo2{
+    height: 70px;
+    width: 70px;
+    margin-left: 10px;
+  }*/
+  .github,
+  .linkedIn,
+  .instagram,
+  .connect{
+    display: flex;
+  }
+  .logo3,
+  .logo1,
+  .logo2{
+    height: 70px;
+    width: 70px;
+    margin-left: 10px;
+    margin-top: 30px;
+  }
+  body{
+    background:url(../img/mixkit-blue-bubbles-295-0.jpg) ;
+  }
+  h2{
+    font-size: 36px;
+    color: #4aaaa5;
+  }
+  .portfolio-ic{
+    height: 900px;
+    width: 600px;
+    margin: 34px 24px 24px 24px;
+  }
+.port1,
+.port2,
+.port3,
+.port4,
+.port5{
+  border: 1px solid black;
+  height: 210px;
+  width: 270px;
+  /*display: inline-block;*/
+  margin-top: 20px;
+  position: relative;
+  /*box-sizing: border-box;*/
+  flex-wrap: wrap;
+  margin-left: 10px;
+  margin-right: 10px;
+  
+}
+.port4, 
+.port2{
+  float: right;
+
+}
+.port3,
+.port4{
+  margin-top:20px ;
+}
+.port1-yazi,
+.port2-yazi,
+.port3-yazi,
+.port4-yazi,
+.port5-yazi{
+  left: 0px;
+  background-color: #4aaaa5;
+  color: #ffffff;
+  font-size: 30px;
+  width: 100%;
+  text-align: center;
+  padding: 10px;
+  box-sizing: border-box;
+  position: absolute;
+  margin-top: -73px;
+}
+ 
+.port1 img,
+.port2 img,
+.port3 img,
+.port4 img,
+.port5 img{
+  width: 100%;
+}
+.ports{
+    display: flex;
+    width: 600px;
+    flex-direction:row ;
+    flex-wrap:wrap ;
+}

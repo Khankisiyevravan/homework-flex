@@ -1,0 +1,131 @@
+header{
+    background-color: white;
+    border-bottom: 2px solid black;
+  }
+  .a{
+      width: 1042px;
+      max-width: 1042px;
+      margin: 0 200px;
+      background-color: rgb(255, 255, 255);
+      height: 100px;
+      display: block;
+      
+  }
+  h1{
+      background-color: #4aaaa5;
+      color: white;
+      width: 200px;
+      padding: 38px;
+      margin-top: -1px;
+      font-size: 24px;
+      
+  }
+  .b{
+    float: right;
+    margin-top: -46px;
+    font-size: 24px;
+    word-spacing: 12px;
+    
+  }
+  li{
+    display: inline;
+  }
+  body{
+    background: url(../img/mixkit-blue-bubbles-295-0.jpg);
+  }
+  a{
+    text-decoration: none;
+  }
+  .contact{
+    height: 750px;
+    width: 700px;
+    left: 0px;
+    position: relative;
+    background-color: white;
+    border: 1px solid black;
+    margin-top: 20px;
+    display:flex ;
+  }
+  .contact-ic{
+    height: 900px;
+    width: 600px;
+    left: 20px;
+    display: inline-block;
+    position: relative;
+  }
+  h2{
+    color: #4aaaa5;
+    font-size: 40px;
+    margin : 20px 0px ;
+   
+  }
+  h4{
+    color: gray;
+    font-size: 20px;
+  }
+  .connect{
+    height: 250px;
+    width: 300px;
+    border: 1px solid black;
+    background-color: white;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 40px;
+    position: relative;
+  }
+  main{
+    left: 200px;
+    height: 1000px;
+    width: 1045px;
+    display: flex;
+    position: relative;
+  }
+  .connect-ic{
+    left: 10px;
+    top: 10px;
+    width: 260px;
+    height: 180px;
+    position: absolute;
+  }
+  h3{
+    font-size: 36px;
+    color: #4aaaa5;
+    margin: 17px 0px;
+  }
+  .connect-esas{
+    width: 260px;
+    height: 150px;
+    margin-bottom: 0px;
+    display: flex;
+  }
+  .logo1,
+  .logo2,
+  .logo3{
+    height: 70px;
+    width: 70px;
+    margin-left: 10px;
+    margin-top: 30px;
+  }
+  /*.logo2{
+    height: 70px;
+    width: 70px;
+    margin-left: 10px;
+  }*/
+  /*.github{
+    display: inline;
+  }
+  .linkedIn{
+    display: inline;
+  }*/
+  .github,
+  .linkedIn,
+  .instagram{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  /*
+  .logo3{
+    height: 70px;
+    width: 70px;
+    margin-left: 10px;
+  }*/
