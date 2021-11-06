@@ -1,0 +1,156 @@
+header{
+    background-color: white;
+    border-bottom: 2px solid black;
+  }
+  .a{
+      width: 960px;
+      max-width: 960px;
+      margin: 0 auto;
+      background-color: rgb(255, 255, 255);
+      height: 100px;
+      display: block;
+      
+  }
+  h1{
+      background-color: #4aaaa5;
+      color: white;
+      width: 200px;
+      padding: 38px;
+      margin-top: -1px;
+      font-size: 24px;
+      
+  }
+  .b{
+    float: right;
+    margin-top: -46px;
+    font-size: 24px;
+    word-spacing: 24px;
+    display: flex;
+    flex: 30%;
+    
+  }
+  li{
+    display: inline;
+  }
+  .main{
+    width: 960px;
+    max-width: 960px;
+    margin: 30px auto;
+    height: 600px;
+    display: flex;
+   
+    
+  }
+  h2{
+    margin-top: 23px;
+    font-size: 36px;
+    margin-left: 30px;
+    color: #4aaaa5;
+    height: 0px;
+   
+    
+  }
+  .bas{
+    display: flex;
+    width: 630px;
+    max-width: 630px;
+    text-align: justify;
+    padding: 0px;
+    
+  }
+  .left-p{
+    width: 180px;
+    height: 180px;
+    margin-left: 30px;
+    margin-top: 30px;
+  }
+  .bas-1{
+    font-size: 20px;
+    margin-left: 17px;
+    margin-top: 30px;
+    padding: 0 10px 0 0;
+  }
+  .bas-2{
+    font-size: 20px;
+    margin-top: -10px;
+  }
+  .son{
+    width: 600px;
+    max-width: 600px;
+    margin-left: 32px;
+    margin-top: 20px;
+  }
+  .information{
+    width: 650px;
+    max-width: 650px;
+    border: 1px solid black;
+    height: 550px;
+    margin-top: 0px;
+    background-color: #ffffff;
+  }
+  .hr1{
+    margin-top: 63px;
+  }
+  body{
+    background: url(../img/mixkit-blue-bubbles-295-0.jpg);
+  }
+  .inf{
+    margin-left: 10px;
+    width: 630px;
+  }
+  .program{
+    width: 300px;
+    background-color: #ffffff;
+    height: 250px;
+    margin-left: 34px;
+    
+  }
+  h3{
+    color: #4aaaa5;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 36px;
+  }
+  .hr2{
+    margin-top: 33px;
+  }
+  .pro{
+    width: 270px;
+    max-width: 270px;
+    margin-left: 10px;
+    margin-top: 20px;
+  }
+  .logo1{
+    height: 70px;
+    width: 70px;
+    margin-left: 10px;
+    margin-top: 30px;
+  }
+  .logo2{
+    height: 70px;
+    width: 70px;
+    margin-left: 10px;
+    margin-top: 30px;
+  }
+  .github{
+    display: flex;
+  }
+  .linkedIn{
+    display: flex;
+  }
+  .instagram{
+    display: flex;
+  }
+  .connect{
+      display: flex;
+  }
+  .logo3{
+    height: 70px;
+    width: 70px;
+    margin-left: 10px;
+    margin-top: 30px;
+  }
+  a{
+    text-decoration: none;
+  }
+  
